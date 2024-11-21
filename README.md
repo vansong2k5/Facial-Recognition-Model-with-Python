@@ -5,6 +5,8 @@ This project presents a deep learning-based facial recognition model capable of 
 Based on the training data, the model will identify and recognize faces present in the image.
 ## Dataset
 The dataset I used to train the model consists of a collection of images of a person that I gathered and compiled, then extracted the faces from.
+## Demo 
+![](demo.gif)
 ## Requirements
 - **python 3.12**
 - **cv2**
